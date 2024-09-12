@@ -24,7 +24,7 @@ In this analysis, we explore the price movements of Bitcoin from 2018 to 2024, f
 By examining this data, we aim to uncover broader trends in Bitcoin’s market behavior, identify periods of significant change, and provide insights into the underlying market conditions during these years.
 
 The dataset can be found on Kaggle: 
-> https://www.kaggle.com/datasets/rankirsh/evolution-of-top-games-on-twitch/data
+> https://www.kaggle.com/datasets/novandraanugrah/bitcoin-historical-datasets-2018-2024
 
 ## Data Cleaning and Preprocessing
  - Open and Close time variables were converted to the appropriate datetime type.
